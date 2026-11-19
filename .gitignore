@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+app/.build/
+build/
+/graphify-out/
+__pycache__/
+/usage-report.html
